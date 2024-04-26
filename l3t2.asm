@@ -23,3 +23,9 @@ NEG1	db	?
 	
 .exit
 end
+
+
+;Write an ALP that will count the number of negative numbers in
+;an array of 16-bit signed data stored from location ‘array1’. The
+;number of elements in array1 is present in location ‘count’. The
+;count of negative numbers must be stored in location ‘NEG1’

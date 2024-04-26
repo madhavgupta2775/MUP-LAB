@@ -44,3 +44,10 @@ n_1	db	0
 .exit
 end
 	
+	
+
+;Print the bonacci sequence vertically where the nth
+;term of the sequence must be repeated n times and must
+;represent the nth term of the alphabet. Print the rst 8 terms
+;for convenience. Use the same specications as given above.
+;Sample output has been provided below:

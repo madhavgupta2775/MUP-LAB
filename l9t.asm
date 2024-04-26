@@ -108,3 +108,9 @@ color2		db	?
 .exit
 end
 	
+;Write an ALP that takes in a single user input from the
+;keyboard. The key pressed by the user must not be displayed.
+;The program should compare the user input with the 12th byte
+;in the le lab1.txt and if the user input is equal to the 12th byte
+;(counting from one) in the le then the following pattern must
+;be displayed on the screen

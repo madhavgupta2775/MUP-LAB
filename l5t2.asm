@@ -28,3 +28,8 @@ out1	db	64 dup(0)
 	int 21h
 .exit
 end
+
+
+;Write an ALP to convert an input string from the user (in all
+;lowercase letters only) to uppercase letters and display it to
+;the user.

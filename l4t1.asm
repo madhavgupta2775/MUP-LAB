@@ -30,3 +30,8 @@ res dw 0000h
 	jnz x1
 .exit
 end
+
+
+;Write an 8086 program to check whether a given string is
+;palindrome or not. If it is a palindrome, store ‘01h’ in RES or
+;else ‘00h’.

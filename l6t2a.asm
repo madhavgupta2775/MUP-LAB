@@ -72,3 +72,6 @@ handle2	dw	?
 	int 21h
 .exit
 end
+
+
+;Take substring from 2 files, and write to a third file

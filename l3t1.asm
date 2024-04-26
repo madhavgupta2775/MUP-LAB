@@ -21,3 +21,7 @@ array1	db	91h, 02h, 83h, 0Ah, 75h, 47h, 12h, 76h, 061h
 	
 .exit
 end
+
+;Write an ALP that will examine the contents of set of 10 bytes
+;starting from location ‘array1’ for the presence of data ‘0Ah’
+;and replace it with ASCII character ‘E’.

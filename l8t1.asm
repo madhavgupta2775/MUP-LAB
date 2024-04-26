@@ -46,3 +46,9 @@ len 	db	12
 	jnz x2
 .exit
 end
+
+
+; Print your full name in reverse diagonal order in white
+;text with a black background. Use display mode 03H or Text
+;VGA mode. For example, if your name is Arshveer Singh it
+;should look like

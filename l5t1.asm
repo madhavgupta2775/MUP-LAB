@@ -27,3 +27,9 @@ nota	db	'not a$'
 	
 .exit
 end
+
+;Write an ALP that will take in a alphabet entered by the user
+;and display ‘The character entered is a’ if the character
+;entered is ‘a’(in both cases) else display ‘not a’ if the character
+;entered is any other character but ‘a’. The user entered
+;character should not be seen on the screen.

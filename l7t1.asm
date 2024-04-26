@@ -101,3 +101,11 @@ handle2	dw	?
 .exit
 end
 	
+	
+	
+;Take the above problem and modify the ALP such that
+;instead of taking username and password in the .data section,
+;we take it from the user.txt and pswd.txt le.
+;The user.txt le contains 10 character long username with 11th
+;character being ‘$’ and pswd.txt le contains 5 character long
+;password with 6th character being ‘$’.

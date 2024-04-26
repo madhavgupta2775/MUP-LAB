@@ -131,4 +131,11 @@ handle2	dw	?
 	int 21h
 .exit
 end
+
+
+; Now modify the ALP in Task 1, such that the username
+;and password can be of variable length with max number of
+;characters being 20h (i.e. 32 in decimal). The username and
+;password have to be picked from user.txt   and pswd.txt le
+;respectively
 	

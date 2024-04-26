@@ -49,3 +49,7 @@ string2length	db 	3
 	jnz start
 .exit
 end
+
+
+;Write an 8086 program to replace a substring S1 of a string S
+;with “*”
